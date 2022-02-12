@@ -37,7 +37,6 @@ function ListFilter({
               </li>
             ))}
         </ul>
-        <button onClick={() => idGenerator()}>dene</button>
         <footer className="footer">
           <span className="todo-count">
             <strong>
